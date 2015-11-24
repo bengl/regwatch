@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 /*
 Copyright 2015, Yahoo Inc. All rights reserved.
 Code licensed under the MIT License.
