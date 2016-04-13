@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "marked-man": "^0.1.5",
-    "mockery": "^1.4.0",
+    "mockery": "^1.6.2",
     "tap": "^2.3.1"
   }
 }
